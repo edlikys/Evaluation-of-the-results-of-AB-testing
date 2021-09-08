@@ -18,6 +18,6 @@
 
 Язык программирования: Python
 
-Основные библиотеки при работе: numpy, pandas, matplotlib, seaborn, scipy
+Основные библиотеки при работе: numpy, pandas, matplotlib, seaborn, plotly, math, stats
 
 В репозитории имеются исходные датафреймы и презентация, включающая основные выводы анализа.
